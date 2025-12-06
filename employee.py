@@ -14,5 +14,5 @@ if __name__ == "__main__":
     name = "vaishnavi"
     emp_id = "01fe24bca014"
     department = "bca"
-    salary = "55000"
+    salary = "60000"
     print(employee_details(name, emp_id, department, salary))
